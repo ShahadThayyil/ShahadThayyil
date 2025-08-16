@@ -1,6 +1,6 @@
 # Hi, I'm Shahad Thayyil  
 
- **MERN Stack Learner** | 💻 Exploring Web Development |  Always curious to learn new tech  
+ **MERN Stack Learner** | Exploring Web Development |  Always curious to learn new tech  
 
 ---
 
@@ -14,8 +14,8 @@
 
 ## Socials
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahadThayyil)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shahad-t-379763373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shahad_techno/)  
 
 ---
 
