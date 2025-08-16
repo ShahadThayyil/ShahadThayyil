@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Shahad Thayyil  
 
-<!--
-**ShahadThayyil/ShahadThayyil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **MERN Stack Developer** | 🌱 Building Cubeeto | 💡 Passionate about Tech & Startups  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Cubeeto](https://github.com/ShahadThayyil/Cubeeto)  
+- 🌱 Learning **UI/UX, AI tools, Backend Scaling**  
+- 👯 I’m looking to collaborate on **Open Source & Startups**  
+- 📫 Reach me at: **yourmail@example.com**  
+- ⚡ Fun fact: I love traveling 🌍  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Express.js, Node.js  
+- **Database:** MongoDB  
+- **Other Tools:** Git, GitHub, Figma  
+
+---
+
+### 📊 GitHub Stats
+![Shahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahadThayyil&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahadThayyil&layout=compact&theme=radical)  
+
+---
