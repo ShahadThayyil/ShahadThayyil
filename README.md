@@ -54,18 +54,19 @@
 
 ---
 
-## GitHub Stats (Glass 3D Panels)
+## GitHub Stats (Cyberpunk Floating)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahadThayyil&show_icons=true&theme=tokyonight&bg_color=30,0D1117,212121&hide_border=true&border_radius=25" 
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahadThayyil&show_icons=true&theme=highcontrast&bg_color=0,000000,0D1117&hide_border=true&border_radius=15" 
        alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahadThayyil&theme=tokyonight&hide_border=true&background=30,0D1117,212121&border_radius=25" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahadThayyil&theme=highcontrast&hide_border=true&background=0,000000,0D1117&border_radius=15" 
        alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahadThayyil&layout=compact&theme=tokyonight&bg_color=30,0D1117,212121&hide_border=true&border_radius=25" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahadThayyil&layout=compact&theme=highcontrast&bg_color=0,000000,0D1117&hide_border=true&border_radius=15" 
        alt="langs" />
 </p>
 
 ---
+
 
 
 <div align="center">
