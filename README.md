@@ -54,7 +54,7 @@
 
 ---
 
-## GitHub Stats (Cyberpunk Floating)
+## GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShahadThayyil&show_icons=true&theme=highcontrast&bg_color=0,000000,0D1117&hide_border=true&border_radius=15" 
