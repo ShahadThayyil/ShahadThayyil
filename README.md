@@ -46,13 +46,11 @@
 
 ---
 
-## 3D Corner (optional)
+
 <!-- Replace the LINK and IMAGE with your own Spline/Sketchfab preview -->
 <a href="https://my.spline.design/placeholder-3d-scene" target="_blank">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="3D/animated accent" />
 </a>
-
-> Tip: Export a small **GIF** preview from Spline/Blender and replace the image above to get a true neon-3D feel in your README.
 
 ---
 
