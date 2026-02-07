@@ -38,11 +38,7 @@ I am a **Frontend Developer** based in **Malappuram, Kerala**, obsessed with the
 
 ---
 
-### 📊 Performance Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahadThayyil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahadThayyil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="45%" />
-</div>
+
 
 <br/>
 
@@ -52,10 +48,6 @@ I am a **Frontend Developer** based in **Malappuram, Kerala**, obsessed with the
 
 ---
 
-###  Activity Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShahadThayyil/ShahadThayyil/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0d1117&fontColor=00f2ff" width="100%"/>
