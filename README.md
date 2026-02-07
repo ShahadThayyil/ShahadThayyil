@@ -42,13 +42,4 @@ I am a **Frontend Developer** based in **Malappuram, Kerala**, obsessed with the
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahadThayyil&theme=tokyonight&hide_border=true&background=0d1117" width="94%" />
-</div>
 
----
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0d1117&fontColor=00f2ff" width="100%"/>
-</div>
