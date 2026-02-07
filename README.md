@@ -1,79 +1,62 @@
-<!-- NEON HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Shahad%20Thayyil&desc=MERN%20Stack%20Learner&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=60&color=0:8A2BE2,100:00FFFF&fontColor=FFFFFF)
-
 <div align="center">
-
-<!-- Typing line -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=MERN+Stack+Learner;Exploring+Web+Development;Always+curious+to+learn+new+tech" />
-
-<!-- Socials -->
-<p>
-  <a href="https://github.com/ShahadThayyil">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-shahad-t-379763373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/shahad_techno/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</p>
-
-</div>
-
----
-
-## About Me
-- From **Malappuram, Kerala**
-- Currently learning **React, Node.js, Express & MongoDB**
-- Open to collaborate on **beginner-friendly projects**
-- Fun fact: I love traveling and exploring new ideas
-
----
-
-## Tech Stack (Learning & Practicing)
-![HTML5](https://img.shields.io/badge/HTML5-FF6EC7?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7DF9FF?style=for-the-badge&logo=css3&logoColor=0B132B)
-![JavaScript](https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=0B132B)
-![React](https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=0B132B)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-00E5FF?style=for-the-badge&logo=tailwind-css&logoColor=0B132B)
-![Node.js](https://img.shields.io/badge/Node.js-00FF85?style=for-the-badge&logo=nodedotjs&logoColor=0B132B)
-![Express](https://img.shields.io/badge/Express-9D00FF?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-00FF88?style=for-the-badge&logo=mongodb&logoColor=0B132B)
-![Git](https://img.shields.io/badge/Git-FF2D95?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FF00FF?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-
-<!-- Replace the LINK and IMAGE with your own Spline/Sketchfab preview -->
-<a href="https://my.spline.design/placeholder-3d-scene" target="_blank">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="3D/animated accent" />
-</a>
-
----
-
-## GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahadThayyil&show_icons=true&theme=highcontrast&bg_color=0,000000,0D1117&hide_border=true&border_radius=15" 
-       alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahadThayyil&theme=highcontrast&hide_border=true&background=0,000000,0D1117&border_radius=15" 
-       alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahadThayyil&layout=compact&theme=highcontrast&bg_color=0,000000,0D1117&hide_border=true&border_radius=15" 
-       alt="langs" />
-</p>
-
----
-
-
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=250&text=Shahad%20Thayyil&desc=Frontend%20Architect%20|%20MERN%20Stack%20Explorer&fontAlign=50&fontAlignY=40&color=0d1117&fontColor=00f2ff&fontSize=70&descSize=20" width="100%"/>
   
-![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Building+Digital+Experiences;Crafting+Modern+UI/UX;Specializing+in+React+Ecosphere" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/muhammad-shahad-t-379763373"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/ShahadThayyil"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/shahad_techno/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </p>
+</div>
+
+---
+
+### ⚡ About Me
+I am a **Frontend Developer** based in **Malappuram, Kerala**, obsessed with the intersection of design and logic. I specialize in building responsive, high-performance web applications using the modern JavaScript ecosystem.
+
+- 🚀 Currently scaling my expertise in **React, Node.js, and Framer Motion**.
+- 🛠️ Deeply involved in **Vite-based** workflows and **Tailwind CSS** architecture.
+- 🎓 Focused on creating **Real-world Problem-solving** software.
+- 🌐 Working on **Pentalks** and **Nazglobal Academy** projects.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+| Core Frontend | Styling & Animation | Backend & DB |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
 
 </div>
 
-<!-- NEON FOOTER -->
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00FFFF,100:8A2BE2)
+---
+
+### 📊 Performance Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahadThayyil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahadThayyil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahadThayyil&theme=tokyonight&hide_border=true&background=0d1117" width="94%" />
+</div>
+
+---
+
+### 🐍 Activity Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShahadThayyil/ShahadThayyil/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0d1117&fontColor=00f2ff" width="100%"/>
+</div>
